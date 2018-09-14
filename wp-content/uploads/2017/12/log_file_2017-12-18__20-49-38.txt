@@ -1,0 +1,201 @@
+
+---Downloaded files---
+The import files for: Demo Homepage 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://www.pharm.com.ng/emarket
+Data file = /home/pharqkjw/public_html/emarket/wp-content/themes/emarket/lib/import/demo-1/demo-content.xml
+Widget file = /home/pharqkjw/public_html/emarket/wp-content/themes/emarket/lib/import/demo-1/widgets.json
+Customizer file = not defined!
+Options files:
+emarket_theme -> /home/pharqkjw/public_html/emarket/wp-content/themes/emarket/lib/import/demo-1/theme_options.txt 
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+3736
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon.png" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+

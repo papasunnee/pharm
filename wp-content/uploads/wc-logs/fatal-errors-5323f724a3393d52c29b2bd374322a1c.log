@@ -1,0 +1,946 @@
+2017-12-20T23:00:02+00:00 CRITICAL Class 'WPSEO_Capability_Utils' not found
+
+2018-02-08T21:23:35+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-02-11T15:55:51+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-02-24T16:00:48+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-03-07T10:30:38+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-03-07T10:34:53+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-03-07T10:39:32+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-03-11T18:31:16+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-03-12T20:15:58+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-03-21T23:08:25+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T02:57:18+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T02:58:46+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:04:01+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:04:29+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:04:45+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:05:14+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:05:32+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:05:50+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:06:07+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:06:29+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:06:41+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:18:37+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-04-07T03:37:30+00:00 CRITICAL Uncaught exception 'Exception' with message 'Error: The access_token provided is invalid.' in /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php:83
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(91): sw_instagram_widget->http('https://api.ins...', 'GET')
+#1 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/includes/default.php(12): sw_instagram_widget->Get_Instagram_Gallery('5725112895', '5725112895.1677...', '5')
+#2 /home/pharqkjw/public_html/wp-content/plugins/sw_core/sw_plugins/sw-instagram/sw-instagram.php(260): include('/home/pharqkjw/...')
+#3 [internal function]: sw_instagram_widget->INST_Shortcode(Array, '', 'instagram')
+#4 /home/pharqkjw/public_html/wp-includes/shortcodes.php(319): call_user_func(Array, Array, '', 'instagram')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/pharqkjw/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?
+
+2018-05-21T14:36:23+00:00 CRITICAL Class 'Fep_Announcement' not found
+
+2018-05-21T14:36:23+00:00 CRITICAL Class 'Fep_Announcement' not found
+
+2018-05-21T14:36:45+00:00 CRITICAL Class 'Fep_Announcement' not found
+
+2018-06-04T22:21:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-07-18T20:06:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1048576 bytes)
+
+2018-08-01T22:57:18+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:00:19+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:03:19+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:03:21+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:06:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:06:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:07:31+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:07:31+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:09:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:09:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:09:14+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:31:51+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:31:51+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:47:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:47:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:53:21+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:53:21+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:53:21+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-01T23:53:21+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:11:16+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:11:16+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:30:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:30:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:32:48+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:32:48+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:34:21+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:34:21+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:36:36+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:36:36+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:44:10+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:44:10+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:47:36+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:47:36+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:53:33+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T00:53:33+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:06:23+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:06:23+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:19:44+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:19:44+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:24:09+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:24:09+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:49:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:49:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:50:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:50:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:51:35+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T01:51:35+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:03:36+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:03:36+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:07:19+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:07:19+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:14:16+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:14:16+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:14:40+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:14:56+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:33:04+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:33:04+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:45:29+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:45:29+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:45:35+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:50:09+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:50:09+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:52:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:52:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:54:43+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T02:54:43+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T03:07:47+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T03:07:47+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T03:14:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T03:14:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T03:20:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T03:20:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T03:21:23+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T03:21:23+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:19:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:19:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:30:54+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:30:54+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:41:52+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:41:52+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:41:52+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:44:27+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:44:27+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:46:16+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:46:16+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:48:28+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:48:28+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:48:31+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:49:36+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T04:49:36+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:07:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:07:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:08:14+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:10:00+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:10:00+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:23:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:23:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:24:30+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:24:30+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:34:58+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:34:58+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:37:23+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:37:23+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:40:37+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:40:37+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:44:33+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:44:33+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:49:13+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:49:13+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:49:42+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:55:38+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T05:55:38+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:08:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:08:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:08:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:08:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:11:58+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:11:58+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:19:27+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:19:27+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:19:29+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:19:41+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:29:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:29:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:30:21+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:30:21+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:39:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:39:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:42:24+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:42:24+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:42:43+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:51:42+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:51:42+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T06:51:55+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:11:10+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:11:10+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:17:44+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:17:44+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:18:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:23:51+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:23:51+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:23:51+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:25:56+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:25:56+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:25:56+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:27:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:27:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:27:27+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:27:31+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:30:32+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:30:32+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:34:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:34:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:34:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:34:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:35:04+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:35:14+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:37:50+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:37:50+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:42:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:42:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:50:22+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:50:22+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:53:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:53:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:53:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:57:43+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:57:43+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:58:50+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T07:58:50+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:05:38+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:05:38+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:07:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:07:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:07:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:07:46+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:07:53+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:08:01+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:08:11+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:11:05+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:11:05+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:11:18+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:15:28+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:15:28+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:16:58+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:16:58+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:17:51+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:17:51+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:17:56+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:19:07+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:19:07+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:32:43+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:32:43+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:45:33+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:45:33+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:49:27+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:49:27+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:57:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T08:57:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:05:55+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:05:55+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:07:09+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:07:10+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:07:15+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:14:13+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:14:13+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:15:30+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:15:30+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:18:50+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:18:50+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:24:14+00:00 CRITICAL Uncaught Error: Class 'WC_Plugin_Updates' not found in /home/pharqkjw/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php:1908
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-includes/class-wp-hook.php(286): wc_enable_wc_plugin_headers(Array)
+#1 /home/pharqkjw/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /home/pharqkjw/public_html/wp-includes/functions.php(4869): apply_filters('extra_plugin_he...', Array)
+#3 /home/pharqkjw/public_html/wp-admin/includes/plugin.php(84): get_file_data('/home/pharqkjw/...', Array, 'plugin')
+#4 /home/pharqkjw/public_html/wp-admin/includes/plugin.php(286): get_plugin_data('/home/pharqkjw/...', false, false)
+#5 /home/pharqkjw/public_html/wp-content/themes/emarket/lib/class-tgm-plugin-activation.php(1992): get_plugins('')
+#6 /home/pharqkjw/public_html/wp-content/themes/emarket/lib/class-tgm-plugin-activation.php(1561): TGM_Plugin_Activation->get_plugins()
+#7 /home/pharqkjw/public_html/wp-content/themes/emarket/lib/class-tgm-plug
+
+2018-08-02T09:24:14+00:00 CRITICAL Uncaught Error: Class 'WC_Plugin_Updates' not found in /home/pharqkjw/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php:1908
+Stack trace:
+#0 /home/pharqkjw/public_html/wp-includes/class-wp-hook.php(286): wc_enable_wc_plugin_headers(Array)
+#1 /home/pharqkjw/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /home/pharqkjw/public_html/wp-includes/functions.php(4869): apply_filters('extra_plugin_he...', Array)
+#3 /home/pharqkjw/public_html/wp-admin/includes/plugin.php(84): get_file_data('/home/pharqkjw/...', Array, 'plugin')
+#4 /home/pharqkjw/public_html/wp-admin/includes/plugin.php(286): get_plugin_data('/home/pharqkjw/...', false, false)
+#5 /home/pharqkjw/public_html/wp-content/themes/emarket/lib/class-tgm-plugin-activation.php(1992): get_plugins('')
+#6 /home/pharqkjw/public_html/wp-content/themes/emarket/lib/class-tgm-plugin-activation.php(1561): TGM_Plugin_Activation->get_plugins()
+#7 /home/pharqkjw/public_html/wp-content/themes/emarket/lib/class-tgm-plug
+
+2018-08-02T09:24:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:28:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:28:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:28:42+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:32:03+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:32:03+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:36:13+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:36:13+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:37:20+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:37:20+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:37:20+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:37:20+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:38:43+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:38:43+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:47:28+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:47:28+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:47:32+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:49:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:49:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:57:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:57:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:57:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:57:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:57:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:57:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:57:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:57:34+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T09:58:05+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:01:59+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:01:59+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:03:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:03:26+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:08:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:08:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:08:56+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:11:50+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:11:50+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:18:17+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:18:17+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:20:40+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:20:40+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:20:47+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:33:30+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:33:30+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:34:00+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:37:57+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:37:57+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:45:39+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:45:39+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:48:30+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:48:30+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:52:22+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:52:22+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:53:24+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:53:24+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:56:29+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T10:56:29+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T11:04:01+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T11:04:01+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T11:24:24+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T11:24:24+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T11:24:28+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T11:47:28+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T11:47:28+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:14:03+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:14:03+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:16:41+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:16:41+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:16:41+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:19:52+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:19:52+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:30:32+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:30:33+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:30:33+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:30:33+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:34:18+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:34:18+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:39:48+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:39:48+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:40:04+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:40:43+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:42:22+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:42:22+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:43:18+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:59:39+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:59:39+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:59:49+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T12:59:52+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:13:31+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:13:31+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:13:31+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:13:31+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:22:48+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:22:48+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:32:55+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:32:55+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:44:22+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:44:22+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:06+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:08+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:50:09+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:56:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:56:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:56:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T13:56:25+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T14:07:20+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T14:07:20+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T14:13:29+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T14:13:29+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T14:22:04+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T14:22:04+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T14:25:49+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-02T14:25:49+00:00 CRITICAL Class 'WC_Plugin_Updates' not found
+
+2018-08-09T01:29:56+00:00 CRITICAL Allowed memory size of 201326592 bytes exhausted (tried to allocate 1048576 bytes)
+
+2018-08-10T15:26:35+00:00 CRITICAL Cannot redeclare woocommerce_login_form() (previously declared in /home/pharqkjw/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:1680)
+
+2018-08-10T15:26:48+00:00 CRITICAL Cannot redeclare woocommerce_login_form() (previously declared in /home/pharqkjw/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:1680)
+
+2018-08-10T15:30:08+00:00 CRITICAL Cannot redeclare woocommerce_login_form() (previously declared in /home/pharqkjw/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:1680)
+
+2018-09-12T17:07:51+00:00 CRITICAL Call to undefined function get_value()
+
+2018-09-12T17:08:16+00:00 CRITICAL Call to undefined function get_value()
+
+2018-09-12T17:13:19+00:00 CRITICAL Call to undefined function get_value()
+
+2018-09-14T00:24:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-09-14T00:24:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-09-14T00:26:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-09-14T00:26:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-09-14T00:26:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-09-14T00:26:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-09-14T00:58:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
